@@ -41,7 +41,7 @@ export default class App extends Component {
         {/* Start :For Input Value to Change Direction & Content of Tooltip */}
         <div>
           {/* heading */}
-          <h1>Tooltip</h1>
+          <h1 className="head">Tooltip</h1>
           <div className="form-div">
             <label className="form-label">Enter Content of Tooltip</label>
             <input
