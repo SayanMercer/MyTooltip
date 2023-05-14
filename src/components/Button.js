@@ -4,7 +4,7 @@ export default class Button extends Component {
   render() {
     return (
         <div>
-            <button className='button'>Hover</button>
+            <button className='button'>Hover over me!</button>
         </div>
     )
   }
