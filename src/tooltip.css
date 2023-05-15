@@ -65,9 +65,9 @@
 
 /* css for positioning tooltip at left */
 .t-left {
-    left: -120%;
+    left: -90%;
     top: 50%;
-    transform: translateY(-80%);
+    transform: translateY(-47%);
 }
 
 .t-left::after {
@@ -78,7 +78,7 @@
 
 /* css for positioning tooltip at right */
 .t-right {
-    right: -120%;
+    right: -90%;
     top: 50%;
     transform: translateY(-47%);
 }
